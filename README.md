@@ -6,6 +6,7 @@ A Torchlight 2 mod to improve loot drops.
 - Golden chests have 40% chance to drop a unique.
 - Mobs drops 2x as much gold.
 - Chests drop 2x as much gold.
+- Items sell for 50% of value (up from 25%).
 
 ## Notes
 
